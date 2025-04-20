@@ -2,7 +2,8 @@
 
 ## 🌍 **International Trade Analytics** - Export Strategy for HS Code 6310 using Power BI
 
-## 📌 **Project Overview** : his project leverages Power BI to perform an in-depth trade analysis of HS Code 6310 — used rags, scrap twine, cordage, rope and cables and worn clothing and other worn textile articles — with the goal of identifying the best export destinations from India.
+## 📌 **Project Overview** 
+This project leverages Power BI to perform an in-depth trade analysis of HS Code 6310 — used rags, scrap twine, cordage, rope and cables and worn clothing and other worn textile articles — with the goal of identifying the best export destinations from India.
 
 Our approach combines data analytics, international trade insights, and interactive dashboards to drive a data-backed export strategy.
 
