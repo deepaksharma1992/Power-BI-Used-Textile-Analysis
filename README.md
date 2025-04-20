@@ -27,7 +27,7 @@ To analyze the global trade landscape for HS Code 6310 and determine the most pr
 - We found, China is the largest exporter, followed by India and Pakistan.
 - This helped understand India’s position in the broader HS code family.
 
-📸 [Insert Bar Chart Image - Top Exporters for HS Code 63]
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/1_exporters_63.png)
 
 ✅ **Step 2**: Drilling Down to the 4-Digit Level – Choosing HS Code 6310. We narrowed down to analyze India's performance across HS codes:
 
@@ -76,6 +76,6 @@ Tool	Purpose
 
 
 ## 📬 Contact
-For questions, reach out at [deepak.sharma.it.1992@gmail.com] or [LinkedIn profile link](https://www.linkedin.com/in/deepak-sharma-58786aa0/).
+For questions, reach out at [deepak.sharma.it.1992@gmail.com] or [LinkedIna](https://www.linkedin.com/in/deepak-sharma-58786aa0/).
 
 Let me know if you’d like help with customizing image captions, writing technical notes on RCA formulas in DAX.
