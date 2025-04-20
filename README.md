@@ -7,7 +7,8 @@ This project leverages Power BI to perform an in-depth trade analysis of HS Code
 
 Our approach combines data analytics, international trade insights, and interactive dashboards to drive a data-backed export strategy.
 
-## 🔍 **Objective** : To analyze the global trade landscape for HS Code 6310 and determine the most promising countries for Indian exporters, using comprehensive trade metrics and visualization tools.
+## 🔍 **Objective** : 
+To analyze the global trade landscape for HS Code 6310 and determine the most promising countries for Indian exporters, using comprehensive trade metrics and visualization tools.
 
 ## 🧠 Skills Demonstrated
 - Data Analytics
