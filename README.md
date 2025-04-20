@@ -73,18 +73,17 @@ Followed by USA, Spain, and Germany
 ⚙️ Tools & Technologies Used
 
 Tool	Purpose
-Power BI	Data transformation, modeling, and dashboarding
-Power Query	ETL - Cleaning and transforming raw trade data
-DAX	Calculated metrics and KPI definitions
-Trade Map Data	Source for export/import data and trade flows
+- Power BI	Data transformation, modeling, and dashboarding
+- Power Query	ETL - Cleaning and transforming raw trade data
+- DAX	Calculated metrics and KPI definitions
+- Trade Map Data	Source for export/import data and trade flows
+
 📊 Final Dashboard
 We created a dynamic and interactive dashboard that allows users to explore:
 
-Export/Import volumes by country
-
-RCA metrics comparison
-
-Growth trends
+- Export/Import volumes by country
+- RCA metrics comparison
+- Growth trends
 
 Country-level insights
 
@@ -100,24 +99,13 @@ India, while a top importer, can reposition itself to become a re-exporter by ta
 There's a growing global market for sustainable and recycled textiles.
 
 🔮 Future Scope
-Integrate with live trade data APIs for real-time analysis
+- Expand analysis to include Non-Tariff Barriers (NTBs) and Logistics performance 
+- Expand analysis for sub-heading to 8-10 HS code level
+- Add profitability estimation by merging cost data with market price
 
-Expand analysis to include Non-Tariff Barriers (NTBs) and Logistics performance
-
-Add profitability estimation by merging cost data with market price
-
-📁 Folder Structure
-bash
-Copy
-Edit
-├── images/                         # Screenshots & charts
-├── pbix/                           # Power BI files
-├── data/                           # Cleaned and transformed datasets
-├── README.md                       # Project documentation
 🙌 Authors
 [Deepak Sharma] – Power BI & Analytics
 
-[Your Collaborator's Name, if any] – Trade Research
 
 📬 Contact
 For questions, reach out at [deepak.sharma.it.1992@gmail.com] or [LinkedIn profile link](https://www.linkedin.com/in/deepak-sharma-58786aa0/).
