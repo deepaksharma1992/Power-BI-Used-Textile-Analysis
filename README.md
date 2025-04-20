@@ -27,7 +27,7 @@ To analyze the global trade landscape for HS Code 6310 and determine the most pr
 - We found, China is the largest exporter, followed by India and Pakistan.
 - This helped understand India’s position in the broader HS code family.
 
-📸 [Insert Bar Chart Image - Top Exporters for HS Code 63]
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/1_exporters_63.png)
 
 ✅ **Step 2**: Drilling Down to the 4-Digit Level – Choosing HS Code 6310. We narrowed down to analyze India's performance across HS codes:
 
@@ -36,20 +36,27 @@ To analyze the global trade landscape for HS Code 6310 and determine the most pr
  - An 8% annual growth rate
  - 4.9% global share held by India
 
-📸 [Insert Line Chart Image - India's Export Trend for HS 6310]
-
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/2_family_6310.png)
 ✅ **Step 3**: Comparative Advantage Analysis (RCA) To measure competitiveness, we calculated the Revealed Comparative Advantage (RCA) for each country at the 4-digit level.
 
 - Although China leads overall exports, Bangladesh has the highest RCA in HS 6310 India has a moderate comparative advantage.
 - RCA helped us understand not just volume, but efficiency and specialization of countries in exporting HS 6310.
 
-📸 [Insert RCA Comparison Chart]
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/3_rca.png)
+
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/3_rca1.png)
+
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/3_rca2.png)
+
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/3_rca4.png)
 
 
 ✅ **Step 4**: Identifying Top Importing Countries, We then focused on demand side — identifying top importers of HS 6310 globally. India (due to recycling industry) is the largest importer Followed by USA, Spain, and Germany
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/4_importer.png)
 
-📸 [Insert Map or Chart - Top Importing Countries for HS 6310]
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/4_importer1.png)
 
+![alt text](https://github.com/deepaksharma1992/Power-BI-Used-Textile-Analysis/blob/main/Images/4_importer2.png)
 
 ## ⚙️ Tools & Technologies Used
 
@@ -76,6 +83,6 @@ Tool	Purpose
 
 
 ## 📬 Contact
-For questions, reach out at [deepak.sharma.it.1992@gmail.com] or [LinkedIn profile link](https://www.linkedin.com/in/deepak-sharma-58786aa0/).
+For questions, reach out at [deepak.sharma.it.1992@gmail.com] or [LinkedIna](https://www.linkedin.com/in/deepak-sharma-58786aa0/).
 
 Let me know if you’d like help with customizing image captions, writing technical notes on RCA formulas in DAX.
