@@ -1,64 +1,52 @@
 # Power-BI-Used-Textile-Analysis
-🌍 International Trade Analytics - Export Strategy for HS Code 6310 using Power BI
+🌍 **International Trade Analytics** - Export Strategy for HS Code 6310 using Power BI
 
-📌 Project Overview
-This project leverages Power BI to perform an in-depth trade analysis of HS Code 6310 — used rags, scrap twine, cordage, rope and cables and worn clothing and other worn textile articles — with the goal of identifying the best export destinations from India.
+📌 **Project Overview** : his project leverages Power BI to perform an in-depth trade analysis of HS Code 6310 — used rags, scrap twine, cordage, rope and cables and worn clothing and other worn textile articles — with the goal of identifying the best export destinations from India.
 
 Our approach combines data analytics, international trade insights, and interactive dashboards to drive a data-backed export strategy.
 
-🔍 Objective
-To analyze the global trade landscape for HS Code 6310 and determine the most promising countries for Indian exporters, using comprehensive trade metrics and visualization tools.
+🔍 **Objective** : To analyze the global trade landscape for HS Code 6310 and determine the most promising countries for Indian exporters, using comprehensive trade metrics and visualization tools.
 
 🧠 Skills Demonstrated
-📊 Data Analytics
+- Data Analytics
+- International Trade Analysis
+- Power BI Data Modeling
+- Dashboard Design
+- Power Query Transformation
+- Product Market Strategy
 
-🌐 International Trade Analysis
-
-🧩 Power BI Data Modeling
-
-📈 Dashboard Design
-
-📥 Power Query Transformation
-
-📦 Product Market Strategy
 
 📚 Methodology
 
-✅ Step 1: Identifying Top Exporting Countries (HS Code 63)
-We started by analyzing global exports under HS Code 63 (Textile articles).
+✅ **Step 1**: Identifying Top Exporting Countries (HS Code 63). We started by analyzing global exports under HS Code 63 (Textile articles).
 
-We found: China is the largest exporter, followed by India and Pakistan.
-
-📌 This helped understand India’s position in the broader HS code family.
+**Observation** 
+- We found, China is the largest exporter, followed by India and Pakistan.
+- This helped understand India’s position in the broader HS code family.
 
 📸 [Insert Bar Chart Image - Top Exporters for HS Code 63]
 
-✅ Step 2: Drilling Down to the 4-Digit Level – Choosing HS Code 6310
-We narrowed down to analyze India's performance across HS codes:
+✅ **Step 2**: Drilling Down to the 4-Digit Level – Choosing HS Code 6310. We narrowed down to analyze India's performance across HS codes:
 
-HS 6302 (Bed linen) and HS 6304 (Other furnishing articles) showed strong performance.
-
-We chose HS 6310 due to:
-
-- An 8% annual growth rate
-- 4.9% global share held by India
+- HS 6302 (Bed linen) and HS 6304 (Other furnishing articles) showed strong performance.
+- We chose HS 6310 due to:
+ - An 8% annual growth rate
+ - 4.9% global share held by India
 
 📸 [Insert Line Chart Image - India's Export Trend for HS 6310]
 
-✅ Step 3: Comparative Advantage Analysis (RCA)
-To measure competitiveness, we calculated the Revealed Comparative Advantage (RCA) for each country at the 4-digit level.
+✅ **Step 3**: Comparative Advantage Analysis (RCA) To measure competitiveness, we calculated the Revealed Comparative Advantage (RCA) for each country at the 4-digit level.
 
-Although China leads overall exports, Bangladesh has the highest RCA in HS 6310 India has a moderate comparative advantage.
+- Although China leads overall exports, Bangladesh has the highest RCA in HS 6310 India has a moderate comparative advantage.
+- RCA helped us understand not just volume, but efficiency and specialization of countries in exporting HS 6310.
 
 📸 [Insert RCA Comparison Chart]
 
-📊 RCA helped us understand not just volume, but efficiency and specialization of countries in exporting HS 6310.
 
-✅ Step 4: Identifying Top Importing Countries
-
-We then focused on demand side — identifying top importers of HS 6310 globally. India (due to recycling industry) is the largest importer Followed by USA, Spain, and Germany
+✅ **Step 4**: Identifying Top Importing Countries, We then focused on demand side — identifying top importers of HS 6310 globally. India (due to recycling industry) is the largest importer Followed by USA, Spain, and Germany
 
 📸 [Insert Map or Chart - Top Importing Countries for HS 6310]
+
 
 ⚙️ Tools & Technologies Used
 
