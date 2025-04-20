@@ -1,13 +1,14 @@
 # Power-BI-Used-Textile-Analysis
-🌍 **International Trade Analytics** - Export Strategy for HS Code 6310 using Power BI
 
-📌 **Project Overview** : his project leverages Power BI to perform an in-depth trade analysis of HS Code 6310 — used rags, scrap twine, cordage, rope and cables and worn clothing and other worn textile articles — with the goal of identifying the best export destinations from India.
+## 🌍 **International Trade Analytics** - Export Strategy for HS Code 6310 using Power BI
+
+## 📌 **Project Overview** : his project leverages Power BI to perform an in-depth trade analysis of HS Code 6310 — used rags, scrap twine, cordage, rope and cables and worn clothing and other worn textile articles — with the goal of identifying the best export destinations from India.
 
 Our approach combines data analytics, international trade insights, and interactive dashboards to drive a data-backed export strategy.
 
-🔍 **Objective** : To analyze the global trade landscape for HS Code 6310 and determine the most promising countries for Indian exporters, using comprehensive trade metrics and visualization tools.
+## 🔍 **Objective** : To analyze the global trade landscape for HS Code 6310 and determine the most promising countries for Indian exporters, using comprehensive trade metrics and visualization tools.
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 - Data Analytics
 - International Trade Analysis
 - Power BI Data Modeling
@@ -16,7 +17,7 @@ Our approach combines data analytics, international trade insights, and interact
 - Product Market Strategy
 
 
-📚 Methodology
+## 📚 Methodology
 
 ✅ **Step 1**: Identifying Top Exporting Countries (HS Code 63). We started by analyzing global exports under HS Code 63 (Textile articles).
 
@@ -48,7 +49,7 @@ Our approach combines data analytics, international trade insights, and interact
 📸 [Insert Map or Chart - Top Importing Countries for HS 6310]
 
 
-⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies Used
 
 Tool	Purpose
 - Power BI	Data transformation, modeling, and dashboarding
@@ -56,24 +57,14 @@ Tool	Purpose
 - DAX	Calculated metrics and KPI definitions
 - Trade Map Data	Source for export/import data and trade flows
 
-📊 Final Dashboard
-We created a dynamic and interactive dashboard that allows users to explore:
 
-- Export/Import volumes by country
-- RCA metrics comparison
-- Growth trends
-
-Country-level insights
-
-📸 [Insert Dashboard Screenshot]
-
-📈 Key Insights
+## 📈 Key Insights
 - India is a strong player in textile exports overall but has scope for improvement in HS 6310.
 - Bangladesh's high RCA makes it a significant competitor in this product.
 - India, while a top importer, can reposition itself to become a re-exporter by targeting markets like USA, Spain, and Germany.
 - There's a growing global market for sustainable and recycled textiles.
 
-🔮 Future Scope
+## 🔮 Future Scope
 - Expand analysis to include Non-Tariff Barriers (NTBs) and Logistics performance 
 - Expand analysis for sub-heading to 8-10 HS code level
 - Add profitability estimation by merging cost data with market price
@@ -82,7 +73,7 @@ Country-level insights
 [Deepak Sharma] – Power BI & Analytics
 
 
-📬 Contact
+## 📬 Contact
 For questions, reach out at [deepak.sharma.it.1992@gmail.com] or [LinkedIn profile link](https://www.linkedin.com/in/deepak-sharma-58786aa0/).
 
 Let me know if you’d like help with customizing image captions, writing technical notes on RCA formulas in DAX.
